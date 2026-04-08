@@ -1,0 +1,14 @@
+<svg width="1080" height="1920" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1920" fill="#f5f8fc"/>
+  <rect x="0" y="0" width="1080" height="180" fill="#4d80e9"/>
+  <text x="40" y="105" fill="white" font-size="48" font-family="Arial">SmartStock Manager – Add Stock</text>
+  <rect x="40" y="240" width="1000" height="300" rx="28" fill="white" stroke="#d2dceb" stroke-width="3"/>
+  <text x="80" y="340" fill="#1e283c" font-size="34" font-family="Arial">Image Picker: Camera / Gallery</text>
+  <text x="80" y="400" fill="#1e283c" font-size="34" font-family="Arial">Live preview thumbnail</text>
+  <rect x="40" y="580" width="1000" height="180" rx="28" fill="white" stroke="#d2dceb" stroke-width="3"/>
+  <text x="80" y="680" fill="#1e283c" font-size="34" font-family="Arial">Form: Name, Category, Quantity, Price</text>
+  <rect x="40" y="800" width="1000" height="180" rx="28" fill="white" stroke="#d2dceb" stroke-width="3"/>
+  <text x="80" y="900" fill="#1e283c" font-size="34" font-family="Arial">Optional Description + Date Picker</text>
+  <rect x="40" y="1020" width="1000" height="180" rx="28" fill="white" stroke="#d2dceb" stroke-width="3"/>
+  <text x="80" y="1120" fill="#1e283c" font-size="34" font-family="Arial">Validation + Save button</text>
+</svg>

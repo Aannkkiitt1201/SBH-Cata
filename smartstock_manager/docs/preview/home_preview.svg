@@ -1,0 +1,15 @@
+<svg width="1080" height="1920" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1920" fill="#f5f8fc"/>
+  <rect x="0" y="0" width="1080" height="180" fill="#265fd9"/>
+  <text x="40" y="105" fill="white" font-size="48" font-family="Arial">SmartStock Manager – Home</text>
+  <rect x="40" y="240" width="1000" height="180" rx="28" fill="white" stroke="#d2dceb" stroke-width="3"/>
+  <text x="80" y="340" fill="#1e283c" font-size="34" font-family="Arial">Dashboard: Total Units 248 | Total Value $18,920 | Low Stock 4</text>
+  <rect x="40" y="460" width="1000" height="180" rx="28" fill="white" stroke="#d2dceb" stroke-width="3"/>
+  <text x="80" y="560" fill="#1e283c" font-size="34" font-family="Arial">Search: "wire"   Filter: Electronics</text>
+  <rect x="40" y="680" width="1000" height="180" rx="28" fill="white" stroke="#d2dceb" stroke-width="3"/>
+  <text x="80" y="780" fill="#1e283c" font-size="34" font-family="Arial">Item: USB Cable 2m | Qty: 38 | Price: $4.50</text>
+  <rect x="40" y="900" width="1000" height="180" rx="28" fill="white" stroke="#d2dceb" stroke-width="3"/>
+  <text x="80" y="1000" fill="#1e283c" font-size="34" font-family="Arial">Item: HDMI Adapter | Qty: 3 (Low Stock) | Price: $12.99</text>
+  <circle cx="940" cy="1760" r="92" fill="#265fd9"/>
+  <text x="900" y="1778" fill="white" font-size="72" font-family="Arial">+</text>
+</svg>
